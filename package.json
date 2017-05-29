@@ -24,6 +24,8 @@
     "babelify": "^7",
     "browserify": "^14",
     "budo": "^10",
+    "eslint": "^3.19.0",
+    "eslint-config-mdcs": "^4.2.2",
     "uglify-js": "^2"
   },
   "dependencies": {

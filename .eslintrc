@@ -1,0 +1,12 @@
+{
+  "extends": "mdcs",
+  "rules": {
+    "indent": ["error", 2],
+    "array-bracket-spacing": "off",
+    "space-in-parens": "off",
+    "computed-property-spacing": "off",
+    "padded-blocks": ["error", "never"],
+    "no-trailing-spaces": "warn",
+    "semi": "off"
+  }
+}
